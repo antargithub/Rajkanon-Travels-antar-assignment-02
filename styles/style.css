@@ -77,7 +77,7 @@ ul li>a {
 }
 
 .banner_h {
-    background-image: url('/Images/banner.png');
+    background-image: url('../Images/banner.png');
     background-repeat: no-repeat;
     object-fit: cover;
     background-size: cover;
